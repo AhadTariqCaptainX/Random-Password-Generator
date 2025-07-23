@@ -1,0 +1,9 @@
+Button {
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 9px 17px 9px 15px;
+gap: 12px;
+}
