@@ -103,3 +103,12 @@ hr {
 .light .password.filled {
   color: #5DEF92;
 }
+
+#pass1 {
+    text-align: center;
+    padding-top: 15px;
+}
+#pass2 {
+    text-align: center;
+    padding-top: 15px;
+}
